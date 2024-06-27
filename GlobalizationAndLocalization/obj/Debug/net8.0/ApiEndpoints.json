@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "GlobalizationAndLocalization.Controllers.Api.LanguageController",
+    "Method": "Get",
+    "RelativePath": "api/Language",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
