@@ -1,0 +1,2 @@
+# GlobalizationAndLocalization_ResourcesFiles
+GlobalizationAndLocalization_ResourcesFiles
